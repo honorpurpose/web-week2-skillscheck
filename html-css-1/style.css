@@ -1,0 +1,118 @@
+.upper-section {
+    padding: 17px;
+    background-color: darkgray;
+    color: white;
+}
+
+.company {  
+    position: relative; 
+    left: 10px; 
+    font-size: 25px;
+}
+
+.menu-bar { 
+    display: flex;  
+    position: relative; 
+    float: right;   
+    top: -41px; 
+    right: 33px;
+}
+
+.lower-section {    
+    width: 100%;
+}
+
+.upper-body {   
+    background-color: black;    
+    color: #f2f360; 
+    height: 300px;
+}
+
+.upper-body-text {  
+    font-size: 50px;    
+    margin: auto;   
+    position: relative; 
+    justify-content: center;    
+    top: 38%;
+    left: 19%;
+}
+
+.main-body {
+    height: 900px;
+}
+
+.mbo {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: lightblue;
+}
+
+.mbt {
+    height: 200px;
+    width: 375px;
+    background-color: #ffe0a3;
+}
+
+.mbth {       
+    margin: 50px;
+}
+
+.mbone {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 45px;
+    padding-left: 45px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.mbtwo {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 45px;
+    padding-left: 45px;
+}
+
+.mbtone {
+
+}
+
+.mbttwo {
+
+}
+
+.mbthree {
+    padding-right: 75px;
+    padding-left: 75px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 45px;
+}
+
+.mbthtwo {     
+margin-top: 89px;      
+margin-left: 40px;     
+position: relative;        
+left: 38px;
+}
+
+.image {
+    height: 165px;
+    width: 280px;
+}
+
+.footer {
+    height: 100px;
+    background-color: #4d4961;
+}
+
+h5 {       
+margin: 5px;       
+margin-top: 20px;
+}
+
+body {
+    font-family: sans-serif;
+}
